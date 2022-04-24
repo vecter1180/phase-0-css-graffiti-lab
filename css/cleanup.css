@@ -1,1 +1,58 @@
 /* write your override styles here */
+
+element.style {
+}
+#wall #tag-2 {
+    background: url(../images/tag-2.png) no-repeat;
+    z-index: 6;
+    display: none;
+}
+.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
+
+    element.style {
+    }
+    div#wall #tag-3.slick {
+        background: url(../images/tag-3.png) no-repeat;
+        z-index: 5;
+        display: none;
+    }
+    .tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 980px;
+        height: 622px;
+    }
+
+    
+#wall #tag-4 {
+    background: url(../images/tag-4.png) no-repeat;
+    z-index: 4;
+    display: none;
+}
+
+.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
+}
+
+background: url(../images/tag-5.png) no-repeat;
+z-index: 3;
+display: none;
+}
+
+.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+position: absolute;
+top: 0;
+left: 0;
+width: 980px;
+height: 622px;
+}
